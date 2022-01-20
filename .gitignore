@@ -1,0 +1,9 @@
+*.js
+*.tgz
+*.zip
+*.map
+*.css
+
+/releases/
+/node_modules/
+/.vscode/

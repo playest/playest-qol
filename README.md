@@ -1,0 +1,1 @@
+Miscellaneous improvements to FoundryVTT for my personal use.

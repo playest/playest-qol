@@ -1,0 +1,20 @@
+{
+  "name": "playest-qol",
+  "title": "Playest QoL",
+  "description": "Miscellaneous improvements to FoundryVTT for my personal use.",
+  "authors": [{
+      "name": "playest",
+      "url": "https://playest.net"
+  }],
+  "version": "{{version}}",
+  "compatibleCoreVersion": "9",
+  "minimumCoreVersion": "9",
+  "url":"https://github.com/playest/playest-qol/",
+  "manifest": "https://github.com/playest/playest-qol/releases/latest/download/module.json",
+  "download": "https://github.com/playest/playest-qol/releases/download/{{shortname}}/playest-qol-{{shortname}}.zip",
+  "esmodules": [ "playest-qol.js" ],
+  "styles": [ "playest-qol.css" ],
+  "license": "LICENSE",
+  "readme": "README.md",
+  "languages": []
+}

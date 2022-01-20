@@ -1,0 +1,31 @@
+{
+  "name": "playest-qol",
+  "version": "0.0.1",
+  "description": "Miscellaneous improvements to FoundryVTT for my personal use.",
+  "main": "playest-qol.js",
+  "scripts": {
+    "packzip": "./scripts/packzip.sh",
+    "build": "./scripts/build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/playest/playest-qol.git"
+  },
+  "author": "playest",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/playest/playest-qol/issues"
+  },
+  "homepage": "https://github.com/playest/playest-qol#readme",
+  "funding": [
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/playest"
+    }
+  ],
+  "private": true,
+  "devDependencies": {
+    "sass": "^1.49.0",
+    "typescript": "^4.5.4"
+  }
+}
