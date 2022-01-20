@@ -1,0 +1,6 @@
+.dialog .dialog-buttons button.default {
+    // we want default to be more visible in the Midi-QoL module dialog when choosing advantage or disadvantage
+    &.advantage, &.disadvantage {
+        background-color: var(--color-border-highlight);
+    }
+}
